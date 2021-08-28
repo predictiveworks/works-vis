@@ -4,4 +4,9 @@ This project aims to facilitate big data visualization. **Works Vis** ships with
 
 **Works Vis** leverages a **TimescaleDB** as common visualization (backend) store and ships with connectors to multipe big data sources like **Apache Ignite**.
 
+<p align="center">
+  <img src="https://github.com/predictiveworks/works-vis/blob/main/images/works-vis-2021-08-28.png" width="600" alt="Works Vis">
+</p>
+
+
 Code coming soon
